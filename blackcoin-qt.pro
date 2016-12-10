@@ -1,5 +1,5 @@
 TEMPLATE = app
-TARGET = blackcoin-qt
+TARGET = YGCcoin-qt
 VERSION = 1.2.2
 INCLUDEPATH += src src/json src/qt
 QT += network
